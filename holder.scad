@@ -18,7 +18,7 @@ difference() {
     
     // Inner space
     translate([0, thickness, thickness]) {
-        box(size * 0.75, size, h);
+        box(size * 0.9, size, h);
     }
     
     // Cable stub
